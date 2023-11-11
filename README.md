@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AseemYaseen
 - 👀 I’m interested in ... Web Development
-- 🌱 I’m a Fullstack web development
+- 🌱 I’m a Fullstack web developer
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... Asemyassen300@gmail.com  
 
